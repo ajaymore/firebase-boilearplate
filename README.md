@@ -1,0 +1,2 @@
+# firebase-boilearplate
+Firebase capabilities
